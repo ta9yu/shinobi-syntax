@@ -1,4 +1,4 @@
-# Shinobi UI Syntax theme
+# Shinobi UI Syntax Theme
 
 A dark theme for Atom.
 

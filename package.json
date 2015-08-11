@@ -5,6 +5,11 @@
   "description": "Shinobi is a simple dark theme.",
   "repository": "https://github.com/ta9yu/shinobi-syntax",
   "license": "MIT",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark"
+  ],
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }
